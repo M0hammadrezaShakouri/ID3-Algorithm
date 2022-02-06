@@ -10,7 +10,7 @@ indicates heart disease. It is integer-valued from 0 to 4.
 Glass Dataset: This is a Glass Identification dataset from UCI. It contains 10 attributes including id, etc. The response is
 glass type (discrete 7 values).
 
-I have done the following in this project:  
+I have done the following takes in this project:  
 
 1- Transform the datasets into a discrete state.  
 
